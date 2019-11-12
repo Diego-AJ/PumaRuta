@@ -1,0 +1,288 @@
+//
+//  LocationData.json
+//  RutasCU
+//
+//  Created by 2020-1 on 11/7/19.
+//  Copyright © 2019 UltaCode. All rights reserved.
+//
+
+[
+    {
+        "name" : "Facultad de Arquitectura",
+        "category" : "Facultad",
+        "id": 1,
+        "coordinates":{
+            "latitude":
+            "longitude":
+        },
+        "imageName": "Arquitectura"
+    },
+    
+    {
+        "name": "Facultad de Ciencias",
+        "category": "Facultad",
+        "id": 2,
+        "coordinates":{
+            "latitude":
+            "longitude":
+        },
+        "imageName": "Ciencias"
+    },
+    
+    {
+        "name": "Facultad de Ciencias Politicas Y Sociales",
+        "category": "Facultad",
+        "id": 3
+        "coordinates": {
+            "latitude":
+            "longitude":
+        },
+        "imageName": "Ciencias Politicas"
+    },
+    
+    {
+        "name": "Facultad de Contaduria y Administacion",
+        "category": "Facultad",
+        "id": 4,
+        "coordinates": {
+            "latidude":
+            "longitude":
+        },
+        "imageName": "Contaduria"
+    }
+    
+    {
+        "name": "Facultad de Derecho",
+        "category": "Facultad",
+        "id": 5,
+        "coordinates": {
+            "latitude": ,
+            "longitude":
+        }
+        "imageName": "Derecho"
+    }
+    
+    {
+        "name": "Facultad de Economia",
+        "category": "Facultad",
+        "id": 6,
+        "coordinates": {
+            "latitude": ,
+            "longitude":
+        }
+        "imageName": "Economia"
+    }
+    
+    {
+        "name": "Facultad de Filosofia y Letras",
+        "category": "Facultad",
+        "id": 7,
+        "coordinates": {
+            "latitude": ,
+            "longitude":
+        }
+        "imageName": "FFyL"
+    }
+    
+    {
+        "name": "Facultad de Ingenieria",
+        "category": "Facultad",
+        "id": 8,
+        "coordinates": {
+            "latitude": ,
+            "longitude":
+        }
+        "imageName": "Ingenieria"
+    }
+    
+    {
+        "name": "Facultad de Medicina",
+        "category": "Facultad",
+        "id": 9,
+        "coordinates": {
+            "latitude": ,
+            "longitude":
+        }
+        "imageName": "Medicina"
+    }
+    
+    {
+        "name": "Facultad de Medicina Veterinaria y Zootecnia",
+        "category": "Facultad",
+        "id": 10,
+        "coordinates": {
+            "latitude": ,
+            "longitude":
+        }
+        "imageName": "Veterinaria"
+    }
+    
+    {
+        "name": "Facultad de Odontologia",
+        "category": "Facultad",
+        "id": 11,
+        "coordinates": {
+            "latitude": ,
+            "longitude":
+        }
+        "imageName": "Odontologia"
+    }
+    
+    {
+        "name": "Facultad de Psicologia",
+        "category": "Facultad",
+        "id": 12,
+        "coordinates": {
+            "latitude": ,
+            "longitude":
+        }
+        "imageName": "Psicologia"
+    }
+    
+    {
+        "name": "Facultad de Quimica",
+        "category": "Facultad",
+        "id": 13,
+        "coordinates": {
+            "latitude": ,
+            "longitude":
+        }
+        "imageName": "Quimica"
+    }
+    
+    {
+        "name": "Escuela Nacional de Tabajo Social",
+        "id": 14,
+        "category": "Facultad",
+        "coordinates":{
+            "longitude":
+            "latititude":
+        }
+        "imageName": "Trabajo Social"
+    }
+    
+    {
+        "name": "Posgrados",
+        "id": 15,
+        "category": "Facultad"
+        "coordinates": {
+            "longitude":
+            "latitude":
+        }
+        "imageName": "Posgrado"
+    }
+    
+    //Museos y Centros culturales
+    {
+        "name": "MUAC: Museo Universitario de Arte Contemporaneo",
+        "id": 16,
+        "category": "Museo",
+        "coordinates": {
+            "longitude":
+            "latitude":
+        }
+        "imageName": "MUAC"
+    }
+    
+    {
+        "name": "MUCA: Museo Univeristario de Ciencia y Arte",
+        "id": 17,
+        "category": "Museo",
+        "coordinates":{
+            "longitude":
+            "latitude":
+        }
+        "imageName": "MUCA"
+    }
+    
+    {
+        "name": "Universum",
+        "id": 18,
+        "category": "Museo",
+        "coordinates": {
+            "longitude":
+            "latitude":
+        }
+        "imageName": "Universum"
+    }
+    
+    {
+        "name": "Biblioteca Nacional de México",
+        "id": 19,
+        "category": "Bilioteca",
+        "coordinates": {
+            "longitude":
+            "latitude":
+        }
+        "imageName": "Biblioteca Nacional"
+    }
+    
+    {
+        "name": "Biblioteca Central",
+        "id": 20,
+        "category": "Biblioteca",
+        "coordinates": {
+            "longitude":
+            "latitude":
+        }
+        "imageName": "Central"
+    }
+    
+    {
+        "name": "Filmoteca",
+        "id": 21,
+        "category": "Biblioteca",
+        "coordinates": {
+            "longitude":
+            "latitude":
+        }
+        "imageName": "Filmoteca"
+    }
+    
+    {
+        "name": "Jardin Botanico del Instituto de Biologia"
+        "id": 22,
+        "category": "Recreacion",
+        "coordinates":{
+            "longitude":
+            "latitude":
+        }
+        "imageName": "Jardin Botanico"
+    }
+    
+    {
+        "name": "Espacio Escultorico"
+        "id": 23,
+        "category": "Recreacion",
+        "coordinates":{
+            "longitude":
+            "latitude":
+        }
+        "imageName": "Espacio Escultorico"
+    }
+    
+    {
+        "name": "Estadio Olimpico",
+        "id": 24,
+        "category": "Recreacion",
+        "coordinates":{
+            "longitude":
+            "latitude":
+        }
+        "imageName": "Estadio"
+    }
+    
+    {
+        "name": "Reserva Ecologica del Pedregal de San Angel",
+        "id": 25,
+        "category": "Recreacion",
+        "coordinate":{
+            "longitude":
+            "latitude":
+        }
+        "imageName": "Reserva Ecologica"
+    }
+    }
+    
+]
+
